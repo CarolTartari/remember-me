@@ -1,0 +1,13 @@
+{
+  "name": "Remember Me",
+  "short_name": "Remember Me",
+  "description": "Organize tarefas, estudos, hábitos e gastos em um só lugar.",
+  "lang": "pt-BR",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f6f8f4",
+  "theme_color": "#317344",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "appId": "com.rememberme.app",
+  "appName": "Remember Me",
+  "webDir": ".",
+  "bundledWebRuntime": false
+}
